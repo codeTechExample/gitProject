@@ -1,0 +1,264 @@
+[33mcommit 457b745944193593a35db57a3205e55cd48cf21c[m
+Merge: b79acd5 4ff9d8e
+Author: msharko <Sharkomax@gmail.com>
+Date:   Wed Feb 11 18:55:08 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit b79acd525139262f04552a17d6d01c42fb4c5883[m
+Author: msharko <Sharkomax@gmail.com>
+Date:   Wed Feb 11 18:54:56 2015 -0800
+
+    adding a file
+
+[33mcommit 4ff9d8e833523eb6589f285e41f2c23ecba2be19[m
+Merge: 397c8ee 114973c
+Author: unitedporcupines <connor.w.barnes@gmail.com>
+Date:   Wed Feb 11 18:54:09 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 114973ced72e9ff6629d522520f705ebccffd331[m
+Merge: 4938e04 e3b474e
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:53:47 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 397c8ee6fcbafe7255cd8b906de273a07b8debc1[m
+Merge: a5a2840 e3b474e
+Author: unitedporcupines <connor.w.barnes@gmail.com>
+Date:   Wed Feb 11 18:53:41 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 4938e04265bfab1d9151ae69d4a258d675067ed8[m
+Merge: b0a3e3f 4cad99f
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:53:31 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit a5a28408f33762541574d644dd0e62da050c1a29[m
+Merge: 7ed8d5c 4cad99f
+Author: unitedporcupines <connor.w.barnes@gmail.com>
+Date:   Wed Feb 11 18:53:31 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit e3b474eca8a1feafb6846b7faf472a144081619e[m
+Merge: 5333859 4cad99f
+Author: ferrillRushton <ferrill.rushton@gmail.com>
+Date:   Wed Feb 11 18:53:20 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit b0a3e3fbb365801a0868afb9f6db06e7186d8ed8[m
+Merge: 8194850 40a2451
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:53:13 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 4cad99f8d2ff33dab1b26d49f1fd8332d6468212[m
+Merge: e1ad232 40a2451
+Author: natnn <norasingh.natalie@gmail.com>
+Date:   Wed Feb 11 18:53:05 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 7ed8d5cf2b84600649841dc9b7cc4240bb6a5c02[m
+Author: unitedporcupines <connor.w.barnes@gmail.com>
+Date:   Wed Feb 11 18:52:53 2015 -0800
+
+    This is not a merge conflict
+
+[33mcommit 819485004de0f0d093df8a8ffa0988e366af0624[m
+Merge: 5fddda1 12b32ac
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:52:50 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 53338599eb6bb7354643c2b6fe7c7484ec0fbaf3[m
+Merge: 6031920 12b32ac
+Author: ferrillRushton <ferrill.rushton@gmail.com>
+Date:   Wed Feb 11 18:52:49 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit e1ad23208aab11b5e50653dbe21ffebe2e52ba48[m
+Merge: 2f6d8a1 12b32ac
+Author: natnn <norasingh.natalie@gmail.com>
+Date:   Wed Feb 11 18:52:49 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 40a245164b6ec02cb14d2f2c63c340232421f6ef[m
+Merge: 644be22 12b32ac
+Author: unknown <4803AW18@4803AW18.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:52:41 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 2f6d8a139fed9da09571ea09faf96ac3f40ac2e6[m
+Merge: 0be5865 07e8051
+Author: natnn <norasingh.natalie@gmail.com>
+Date:   Wed Feb 11 18:52:32 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 5fddda1a0cf6c06f03f317b1f13c1a40572a8696[m
+Merge: c6acad2 07e8051
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:52:28 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 12b32ac783f703b38c4f2e10b2a0024b5497fcc5[m
+Merge: 95372f0 07e8051
+Author: ezarenanda <razelot@gmail.com>
+Date:   Wed Feb 11 18:52:27 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 60319204a24dde4f49e952deafcada5627a0bfa8[m
+Merge: 833d756 07e8051
+Author: ferrillRushton <ferrill.rushton@gmail.com>
+Date:   Wed Feb 11 18:52:24 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 07e8051e0af2d768c918c8fddc39219011c07cfe[m
+Merge: aad7607 85abe33
+Author: mattandscarlet <sidvanreal@mail.com>
+Date:   Wed Feb 11 18:51:58 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit c6acad2be117f76697ab7656650f9af765bbea87[m
+Merge: 3638dba 423491c
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:51:48 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 85abe33071263922b58148f49732af1f779cf921[m
+Merge: d16dc67 423491c
+Author: gituser <hello@gmail.com>
+Date:   Wed Feb 11 18:51:46 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 0be5865f36dbe557ed2f66f5f76a3ee095a72920[m
+Merge: 3050080 423491c
+Author: natnn <norasingh.natalie@gmail.com>
+Date:   Wed Feb 11 18:51:43 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 95372f05be52f2db39735d17d65a3b475d785e8c[m
+Merge: 7b3798c 423491c
+Author: ezarenanda <razelot@gmail.com>
+Date:   Wed Feb 11 18:51:43 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 833d75699f96d92480b5b1ab50a9130bfdaec65a[m
+Merge: 0e69e1a 423491c
+Author: ferrillRushton <ferrill.rushton@gmail.com>
+Date:   Wed Feb 11 18:51:43 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit aad7607604dcd034649a66afde4f573cd3e8369b[m
+Merge: b1432a8 423491c
+Author: mattandscarlet <sidvanreal@mail.com>
+Date:   Wed Feb 11 18:51:42 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit 644be227941fc3de9e5ab0baafd98710824be775[m
+Merge: 46d37d0 423491c
+Author: unknown <4803AW18@4803AW18.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:51:39 2015 -0800
+
+    Merge branch 'master' of https://github.com/codeTechExample/gitProject
+
+[33mcommit d16dc67a038284291f551018c653a223adc5dc80[m
+Author: gituser <hello@gmail.com>
+Date:   Wed Feb 11 18:47:39 2015 -0800
+
+    Made some changes
+
+[33mcommit 7b3798cd1642062937fe2b7e513ad7e2967c0864[m
+Author: ezarenanda <razelot@gmail.com>
+Date:   Wed Feb 11 18:47:21 2015 -0800
+
+    lol
+
+[33mcommit 3050080c23e11343edd78616f0c2d6f7a6cd8a35[m
+Author: natnn <norasingh.natalie@gmail.com>
+Date:   Wed Feb 11 18:47:06 2015 -0800
+
+    natalie's edit
+
+[33mcommit 3638dba192480a0f9485a80b40ce67bf301e6488[m
+Author: laralh16 <4803AW12@4803AW12.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:47:02 2015 -0800
+
+    Whatever you want to put in here
+
+[33mcommit 0e69e1aea263858732b1232231c16f8107f5e80c[m
+Author: ferrillRushton <ferrill.rushton@gmail.com>
+Date:   Wed Feb 11 18:46:38 2015 -0800
+
+    I added a boom file
+
+[33mcommit 46d37d04bf2f73b6d0fc75ffeedb259dd5dec32a[m
+Author: unknown <4803AW18@4803AW18.usa.miracosta.cc.ca.us>
+Date:   Wed Feb 11 18:46:18 2015 -0800
+
+    Cooler stuff
+
+[33mcommit b1432a8e1e02b187ed992db679e398bc0cd4d333[m
+Author: mattandscarlet <sidvanreal@mail.com>
+Date:   Wed Feb 11 18:46:17 2015 -0800
+
+    Matt's edit
+
+[33mcommit 423491cc04f8b9f1edad9698fc336115e558f558[m
+Author: ksanclemente <kyletsanclemente@gmail.com>
+Date:   Wed Feb 11 18:46:14 2015 -0800
+
+    I did some things and also some stuff
+
+[33mcommit d4454ecfbbb6ed60a831958dd7908449f6954f4f[m
+Author: MichaelMitchell.tablet <MichaelMatthewMitchell@live.com>
+Date:   Wed Feb 11 18:44:38 2015 -0800
+
+    stuff
+
+[33mcommit 0bad6bf02c81e904bf8e18edf574c4a4261c141b[m
+Author: MichaelMitchell.tablet <MichaelMatthewMitchell@live.com>
+Date:   Wed Feb 11 18:39:56 2015 -0800
+
+    Test Commit Please Ignore
+
+[33mcommit aaadd558787bbadca157e15dfa0c28f98a4aed49[m
+Author: Jackson Ray Hamilton <jackson@jacksonrayhamilton.com>
+Date:   Wed Feb 11 18:37:51 2015 -0800
+
+    more stuff
+
+[33mcommit 5c90ef0fd3bd7b8e5168426eb32c574e9547ed0d[m
+Author: Jackson Ray Hamilton <jackson@jacksonrayhamilton.com>
+Date:   Wed Feb 11 18:35:50 2015 -0800
+
+    Added a file.
+
+[33mcommit 428948233cd85d80e9b8d12c61411113f6fec533[m
+Author: ksanclemente <kyletsanclemente@gmail.com>
+Date:   Wed Feb 11 18:05:30 2015 -0800
+
+    I'm adding some files
